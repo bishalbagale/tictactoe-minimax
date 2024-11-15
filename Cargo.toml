@@ -1,0 +1,10 @@
+[package]
+name = "tictactoe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+term-table = "1.4.0"
+termcolor = "1.4.1"
+clearscreen = "3.0.0"
